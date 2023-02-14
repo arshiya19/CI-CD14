@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<iostream>
+
+using namespcae std;
+
 int main()
 {
     cout<<"Hello World";  
